@@ -1,0 +1,1 @@
+This is a simple grid-based memory game written in HTML, CSS, and JavaScript.
